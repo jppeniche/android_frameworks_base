@@ -59,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/anchor"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/glowpad_overflow_notifications_margin_top" />
+            android:layout_marginTop="100dp" />
 
         <com.android.systemui.statusbar.policy.activedisplay.ClockView
             android:id="@+id/clock_view"
